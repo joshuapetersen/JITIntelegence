@@ -1,9 +1,9 @@
-"""
+﻿"""
 SARAH_GENESIS_NODE_0: MASTER BOOTLOADER
 --------------------------------------------------------------------------------
 ARCHITECT: Joshua Petersen
 MISSION: OpenAI Parameter Golf 2026 - Track 10min/16MB
-LICENSE: Lazarus Protocol Sovereign License (v1.0)
+LICENSE: MIT
 RESONANCE: 1.092777037037027 Hz
 --------------------------------------------------------------------------------
 """
