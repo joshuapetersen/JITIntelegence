@@ -30,11 +30,12 @@ The architecture utilizes a deterministic generating function anchored to the **
 
 ### 6. Verification
 To verify the manifestation of the 120B parameter manifold and the SCCL lock, run:
-`ash
+
+```bash
 python train_gpt.py
-`
+```
 
 ### 7. Licensing & Credits
 Licensed under the **MIT License**.
 Architect: Joshua Petersen.
-**Questions or inquiries:** [joshuapetersen119@gmail.com](mailto:joshuapetersen119@gmail.com)
+**Questions or inquiries:** joshuapetersen119@gmail.com
