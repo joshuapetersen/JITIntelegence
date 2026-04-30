@@ -32,3 +32,5 @@ python train_gpt.py
 ### 6. Licensing & Credits
 Licensed under the **MIT License**.
 Architect: Joshua Petersen.
+
+**Questions or inquiries:** [joshuapetersen119@gmail.com](mailto:joshuapetersen119@gmail.com)
