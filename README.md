@@ -18,7 +18,7 @@ Unlike traditional models that store static weights, the SSR engine manifests it
 *   **Execution Environment:** Python 3.x with standard library dependencies.
 
 ### 4. Manifest Files
-*   **	rain_gpt.py**: The Master Bootloader and Entry Point.
+*   **train_gpt.py**: The Master Bootloader and Entry Point.
 *   **master_symbolic_compiler.py**: The JIT Parameter Forge and Intelligence Amplifier.
 *   **ssr_core.py**: The core routing logic and harmonic gating substrate.
 *   **sovereign_ssr_engine.py**: The execution manifold for symbolic reasoning.
